@@ -31,7 +31,3 @@ Bu proje, **Direct3D 8** tabanlı oyunlar için geliştirilmiş, **ImGui** aray�
 - ✅ C++17 veya daha yeni bir standart
 - ✅ D3D8 SDK
 - ✅ DLL Inject edebilme yetkinliği
-
----
-
-```md
